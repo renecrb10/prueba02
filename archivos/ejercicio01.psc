@@ -15,7 +15,8 @@ Algoritmo ejercicio01
 	edadMayores<-0
 	generoMujer<-0
 	generoVaron<-0
-	
+	//
+	//
 	
 	personasMercado<-100
 	incrementoPersonas<-personasMercado+(personasMercado*450)/100
@@ -103,7 +104,7 @@ Algoritmo ejercicio01
 	imprimir "La edad maxima es : " , edadMax[1]
 	
 	
-	
+	//
 	
 	
 FinAlgoritmo
